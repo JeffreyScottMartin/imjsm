@@ -1,2 +1,3 @@
-# imjsm2025
-Personal portfolio for 2025
+# Jeffrey Scott Martin
+
+Personal Portfolio
